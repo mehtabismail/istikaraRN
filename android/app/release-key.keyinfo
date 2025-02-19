@@ -1,0 +1,37 @@
+Generating 2,048 bit RSA key pair and self-signed certificate (SHA256withRSA) with a validity of 10,000 days
+        for: CN=Taimoor Ahmed, OU=Istikara, O=Istikara, L=Lahore, ST=Punjab, C=Pk
+[Storing release-key.keystore]
+
+
+Alias name: istikara
+Creation date: Aug 15, 2024
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Taimoor Ahmed, OU=Istikara, O=Istikara, L=Lahore, ST=Punjab, C=Pk
+Issuer: CN=Taimoor Ahmed, OU=Istikara, O=Istikara, L=Lahore, ST=Punjab, C=Pk
+Serial number: 6039bcd04780842e
+Valid from: Thu Aug 15 16:00:13 PKT 2024 until: Mon Jan 01 16:00:13 PKT 2052
+Certificate fingerprints:
+         SHA1: 3F:FC:BD:EC:69:2E:B9:F3:BA:2C:56:05:77:9F:11:F7:B5:57:5F:3D
+         SHA256: 6D:CD:AC:55:C6:E6:72:1D:72:8C:2E:CE:EB:71:29:E0:B7:72:9F:21:9B:1B:B3:C4:58:D7:6B:96:5E:99:F0:0F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 4B 52 C0 D2 66 21 81 C0   FE 43 77 E2 2E 1F B7 22  KR..f!...Cw...."
+0010: 90 00 14 F1                                        ....
+]
+]
+
+
+
+*******************************************
+*******************************************
+
+keyhash fb P/y97GkuufO6LFYFd58R97VXXz0=
